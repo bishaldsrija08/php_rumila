@@ -1,0 +1,5 @@
+1. What is the difference between the arithmetic operators (+, -, *, /, %) and assignment operators in PHP?
+2. How does the comparison operator == differ from === in PHP? Give an example.
+3. What are logical operators in PHP, and how do && and || work in conditional statements?
+4. Explain the use of the ternary operator (? :) in PHP with an example.
+5. What is the purpose of the null coalescing operator (??) in PHP, and how is it different from isset()?
