@@ -1,0 +1,30 @@
+🧮 Simple Data Types (PHP)
+
+Write a PHP program that takes an integer as input and prints whether it is positive, negative, or zero.
+Write a PHP program that asks the user for their name and age, then prints a message showing how old they will be after 5 years.
+Write a PHP program to swap the values of two numbers without using a third variable.
+Write a PHP program to take principal, rate, and time as input and calculate the simple interest.
+Write a PHP program to enter two numbers and find their sum and product.
+Write a PHP program to ask for the base and height of a triangle and calculate its area.
+(Hint: A = (b × h) / 2)
+Write a PHP program to find the square root of a number.
+
+🔀 Conditionals (PHP)
+Write a PHP program that takes a number and checks whether it is even or odd.
+Write a PHP program to take three numbers as input and print the largest among them.
+Write a PHP program that asks for a student’s marks (0–100) and prints the grade:
+    90–100 → A
+    75–89 → B
+    50–74 → C
+    Below 50 → Fail
+
+🔁 Loops (PHP)
+Write a PHP program to print numbers from 1 to 10 using a loop.
+Write a PHP program to print the multiplication table of a given number.
+Write a PHP program to find the sum of the first n natural numbers.
+Write a PHP program to calculate the factorial of a number using a loop.
+Write a PHP program to print all even numbers between 1 and 50.
+Write a PHP program to reverse a number using a loop.
+Write a PHP program to check whether a number is a palindrome or not.
+Write a PHP program to count the number of digits in a number.
+Write a PHP program to print the Fibonacci series up to n terms.
